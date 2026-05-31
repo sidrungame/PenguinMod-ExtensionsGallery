@@ -12,6 +12,7 @@ export default [
         banner: "ObviousAlexC/PenPlus.svg",
         creator: "pinksheep2917",
     },
+    {e"kekekfrkrkrrr}
     {
         name: "Shovel Debugger",
         description: "Shovel's improved and feature rich debugger!",
